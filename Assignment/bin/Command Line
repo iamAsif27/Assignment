@@ -1,0 +1,26 @@
+ Command Line Run
+ 
+ /*
+ Write a program for below scenario, 
+ 2. How do you compile and run a Java class from the command line? Write the commend. 
+ 
+ Assume DeadLockCode is project file 
+ how to complie and run on command line.
+ 
+Step1
+ ** Compilation=
+                 ' javac DeadLockcode.java '
+                  
+  - javac used for compilation and then file name
+  - if the file successfully compilation then file create ' .class ' file
+
+Step2 
+   **Run=
+   
+      ' java DeadLockcode '
+      
+   - for run file after compilation above command use for run file.
+   
+   
+  ** This Two above command use for Compilation then Run
+  
